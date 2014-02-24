@@ -1,7 +1,7 @@
 body {
   font-family: 'Gilda Display', sans-serif;
   color: #FAF3BC;
-  background: #420600 url('img/bg-texture.png') repeat;
+  background: #195370;
 }
 
 a {
@@ -10,7 +10,7 @@ a {
 }
 
 h1 {
-  font-size: 1.500em;
+  font-size: 1.250em;
   letter-spacing: -1.5px;
 }
 
@@ -47,21 +47,22 @@ ul.nav li a {
   color: #FAF3BC;
 }
 
-#logo {
+#goat_logo {
   margin-top: 40px;
 }
 
-#logo img {
-  border-radius: 10px;
+#goat_logo img {
+  border: 4.5px solid #DA6AFF;
+  border-radius:15px;
 }
 
 #intro {
-  margin: 50px 0 75px 0;
+  margin: 0px 20px 75px 0;
 }
 
 #other_stuff img {
   border: 8px solid #FAF3BC;
-  margin: 18px 0 20px 0;
+  margin: 0 0 20px 0;
 }
 
 #todd img {
